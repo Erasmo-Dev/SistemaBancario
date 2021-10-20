@@ -1,2 +1,2 @@
 # SistemaBancario
-Simples api que simula um sistema de contas de banco
+Api gradle que simula um sistema de transferencia bancaria usando Spring JPA e Swagger
